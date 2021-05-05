@@ -7,6 +7,8 @@ package com.JunitDenemeleri;
 public class App 
 {
     public String getHelloWorld(){
+        System.out.println("Akin");
         return  "Hello World!!";
+
     }
 }
